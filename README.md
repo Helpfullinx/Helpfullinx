@@ -61,6 +61,6 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=helpfullinx&show_icons=true&locale=en&layout=compact" alt="helpfullinx" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=helpfullinx&show_icons=true&locale=en&layout=compact&theme=react&border=61dafb&hide_border=true" alt="helpfullinx" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=helpfullinx&show_icons=true&locale=en" alt="helpfullinx" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=helpfullinx&show_icons=true&locale=en&theme=react&border=61dafb&hide_border=true" alt="helpfullinx" /></p>
