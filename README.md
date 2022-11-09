@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zach van Welzen</h1>
-<h1 align="center">📫 How to reach me - zachvdub2002@gmail.com</h1>
+<h3 align="center">Welcome to my Github</h3>
+<h3 align="center">📫 How to reach me - zachvdub2002@gmail.com</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
